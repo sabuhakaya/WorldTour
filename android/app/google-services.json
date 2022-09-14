@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302772219532",
+    "project_id": "world-tour-e2207",
+    "storage_bucket": "world-tour-e2207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302772219532:android:af9cfdaafe79cd8c9755a9",
+        "android_client_info": {
+          "package_name": "com.example.world_tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302772219532-p2j07hgj0pt27fq2vdff50m5rpbgacig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKwnA7YSTVioOpJ0CvNbmBnpLS_pNFJWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302772219532-p2j07hgj0pt27fq2vdff50m5rpbgacig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
